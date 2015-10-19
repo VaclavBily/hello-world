@@ -1,2 +1,2 @@
 # hello-world
-nas-prvni-depozitar
+nejaky text
